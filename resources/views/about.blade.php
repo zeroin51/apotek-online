@@ -47,7 +47,7 @@
       <div class="col-sm">
         <div class="card">
           <div class="card-body">
-            <img class="card-img-top rounded-circle" src="img/jek.jpg" alt="David">
+            <img class="card-img-top rounded-circle" src="img/david.png" alt="David">
             <h5 class="text-center mt-2">David Setiawan</h5>
             <p class="text-center">H1D021065</p>
           </div>
@@ -56,7 +56,7 @@
       <div class="col-sm">
         <div class="card">
           <div class="card-body">
-            <img class="card-img-top rounded-circle" src="img/rahma.jpeg" alt="Irsyad">
+            <img class="card-img-top rounded-circle" src="img/irsyad.png" alt="Irsyad">
             <h5 class="text-center mt-2">M. Irsyad Wahyuhadi Wibowo</h5>
             <p class="text-center">H1D021074</p>
           </div>
@@ -65,7 +65,7 @@
       <div class="col-sm">
         <div class="card">
           <div class="card-body">
-            <img class="card-img-top rounded-circle" src="img/azar.jpg" alt="Satrio">
+            <img class="card-img-top rounded-circle" src="img/satrio.png" alt="Satrio">
             <h5 class="text-center mt-2">Satrio Aryo Wicaksono</h5>
             <p class="text-center">H1D021078</p>
           </div>
@@ -74,7 +74,7 @@
       <div class="col-sm">
         <div class="card">
           <div class="card-body">
-            <img class="card-img-top rounded-circle" src="img/sekar.jpg" alt="Nabiel">
+            <img class="card-img-top rounded-circle" src="img/irfan.png" alt="Nabiel">
             <h5 class="text-center mt-2">M Irfan Nabiel M Mucoffa</h5>
             <p class="text-center">H1D021095</p>
           </div>
